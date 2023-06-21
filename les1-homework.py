@@ -8,8 +8,7 @@ while True:
     
     s = input( "Bведите слово: " ) 
     
-    print( f" {s} является палиндромом" if 
-        palindrome (s) else f" {s} не является палиндромом" )
+    print( "True" if palindrome (s) else "False" )
     
     if s == 'break.' :
         break
