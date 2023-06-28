@@ -1,0 +1,23 @@
+h1 {
+    background: rgb(255, 0, 0);
+    color: rgb(242, 180, 180);
+}
+
+.paragraph-1 {
+    background: pink;
+    font-size: 32pt;
+    color: green;
+}
+.paragraph-2 {
+    border: 10 px solid yellow;
+    border-radius: 15 px;
+    font-size: 24pt;
+    margin-bottom: 80 px;
+    padding-top: 50 px;
+}
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: Impact;
+    color: green;
+}
